@@ -3,18 +3,17 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
+// import { email } from '@config';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
   align-items: flex-start;
   min-height: 100vh;
-  height: 100vh;
   padding: 0;
 
-  @media (max-height: 700px) and (min-width: 700px), (max-width: 360px) {
-    height: auto;
-    padding-top: var(--nav-height);
+  @media (max-width: 480px) and (min-height: 700px) {
+    padding-bottom: 10vh;
   }
 
   h1 {
@@ -30,7 +29,7 @@ const StyledHeroSection = styled.section`
   }
 
   h3 {
-    margin-top: 5px;
+    margin-top: 10px;
     color: var(--slate);
     line-height: 0.9;
   }
@@ -61,27 +60,21 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Arjun Singh.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = (
+    <h3 className="big-heading">I make your stories look and sound more compelling.</h3>
+  );
   const four = (
     <>
-      <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
-      </p>
+      <p>I'm a California-based marketer, designer, and science fiction enthusiast.</p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="mailto:arjunsingh8797@gmail.com"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Contact me
     </a>
   );
 

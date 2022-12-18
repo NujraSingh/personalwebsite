@@ -35,7 +35,7 @@ const TransitionStyles = css`
   }
   .fade-enter-active {
     opacity: 1;
-    transition: opacity 300ms var(--easing);
+    transition: opacity 10ms var(--easing);
   }
   .fade-exit {
     opacity: 1;

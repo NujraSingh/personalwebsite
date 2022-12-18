@@ -259,19 +259,16 @@ const StyledProject = styled.li`
       background-color: var(--green);
       border-radius: var(--border-radius);
       vertical-align: middle;
-
       &:hover,
       &:focus {
         background: transparent;
         outline: 0;
-
         &:before,
         .img {
           background: transparent;
           filter: none;
         }
       }
-
       &:before {
         content: '';
         position: absolute;
@@ -283,21 +280,20 @@ const StyledProject = styled.li`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        background-color: var(--navy);
-        mix-blend-mode: screen;
+        mix-blend-mode: normal;
+        filter: grayscale (100%);
       }
     }
-
     .img {
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
+      filter: grayscale(100%) contrast(1) brightness(80%);
 
       @media (max-width: 768px) {
         object-fit: cover;
         width: auto;
         height: 100%;
-        filter: grayscale(100%) contrast(1) brightness(50%);
+        filter: grayscale(100%) contrast(1) brightness(35%);
       }
     }
   }
@@ -348,7 +344,7 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Some Things I’ve Built
+        Recent Accomplishments
       </h2>
 
       <StyledProjectsGrid>
@@ -382,11 +378,6 @@ const Featured = () => {
                     )}
 
                     <div className="project-links">
-                      {cta && (
-                        <a href={cta} aria-label="Course Link" className="cta">
-                          Learn More
-                        </a>
-                      )}
                       {github && (
                         <a href={github} aria-label="GitHub Link">
                           <Icon name="GitHub" />
