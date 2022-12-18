@@ -1,12 +1,12 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+title: 'Marketing & Design Lead'
+company: 'Java Detour'
+location: 'Remote'
+range: 'June 2019 - December 2021'
+url: 'https://www.instagram.com/javadetourredbluff/?hl=en'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Analyzed customer purchasing behavior to eliminate underperforming drinks and market those with better profit margins.
+- Led themed marketing campaigns for summer and winter and changed happy hour pricing strategy, which increased sales by 12%.
+- Created copy and media for Instagram, and Tik Tok. Redesigned the menu boards for all 6 locations.

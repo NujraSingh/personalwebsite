@@ -1,11 +1,13 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Growth Manager'
+company: 'IreneDAO'
+location: 'Remote'
+range: 'Dec 2021 - Feb 2022'
+url: 'https://twitter.com/0xIreneDao'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Edited and wrote twitter threads on Irene's 152k follower account.
+- Refined partnership strategy and led outreach to 8 other creators. Helped grow Discord to over 5k members.
+- Assisted in writing the DAO Constitution, and made final revisions to the plans for allocating treasury funds.
+- Successfully led negotiations alongside Irene and her legal adivsor to partner with a public relations agency.

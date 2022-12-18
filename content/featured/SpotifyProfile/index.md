@@ -1,15 +1,11 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Web Design & Illustration'
+cover: './redondo5.jpg'
+external: 'https://lucretiastinnette.com/redondo'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Photoshop
+  - Illustrator
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+The filmmakers at BlackSQR Productions requested that I redesign their primary website, create websites for two of their standalone projects, and design/illustrate a film poster for a soon to be unveiled short film: [Redondo](https://lucretiastinnette.com/redondo)

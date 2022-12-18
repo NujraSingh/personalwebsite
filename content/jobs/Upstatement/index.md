@@ -1,12 +1,14 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2019-05-14'
+title: 'Marketing Director'
+company: 'SO-COL'
+location: 'Remote'
+range: 'Jan 2022 - Present'
+url: 'https://www.socol.io'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Overseeing the writing and editing of written content such as the press release, whitepaper, and social media posts.
+- Demystifying web3 terms such as "NFT", “multisig” and "DAO" in order to attract web2 users.
+- Successfully pitched to and partnered with 11 influencers with over 100K followers.
+- Coordinating and leading weekly meetings between SO-COL's marketing, design, and UI teams.
+- Ideated the platform's rarity distribution system to generate more value for users.
