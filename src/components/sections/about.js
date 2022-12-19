@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I hope you’re enjoying your scroll! Here's a bit more about me: I sculpt visual media
+              Hope you’re enjoying your scroll! Here’s a bit more about me: I work with visual media
               and good ol’ fashioned text to solve problems. My approach involves tinkering with the
               mediums of communication we all intuitively understand to nudge you towards my
               intended interpretation. That means choosing specific colors or phrasing, and in doing
