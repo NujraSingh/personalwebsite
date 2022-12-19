@@ -3,7 +3,7 @@ date: '2019-05-14'
 title: 'Marketing Director'
 company: 'SO-COL'
 location: 'Remote'
-range: 'Jan 2022 - Present'
+range: 'Jan 2022 - Nov 2022'
 url: 'https://www.socol.io'
 ---
 
