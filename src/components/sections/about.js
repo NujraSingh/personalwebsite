@@ -136,10 +136,11 @@ const About = () => {
           <div>
             <p>
               Hope you’re enjoying your scroll! Here’s a bit more about me: I work with visual media
-              and good ol’ fashioned text to solve problems. My approach involves tinkering with the
-              mediums of communication we all intuitively understand to nudge you towards my
-              intended interpretation. That means choosing specific colors or phrasing, and in doing
-              so, refining different types of storytelling to the benefit of my clients.
+              and language to solve problems. This includes making subtle decisions like choosing
+              specific colors for a design, or phrasing for an advertisement, and in doing so,
+              refining the stories you want to share. By tinkering with the aspects of communication
+              we intuitively understand, I attempt to guide viewers towards my intended
+              interpretation, and that of my clients.
             </p>
 
             <p>
