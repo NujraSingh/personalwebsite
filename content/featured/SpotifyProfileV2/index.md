@@ -2,8 +2,8 @@
 date: '3'
 title: 'Web3 & DAO Marketing'
 cover: './irene3.jpg'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://twitter.com/0xIreneDAO'
+cta: 'https://twitter.com/0xIreneDAO'
 tech:
   - Gnosis
   - OpenSea
