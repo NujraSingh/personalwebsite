@@ -1,6 +1,6 @@
 ---
 date: '2017-04-01'
-title: 'Growth Manager'
+title: 'Senior Content Strategist'
 company: 'IreneDAO'
 location: 'Remote'
 range: 'Dec 2021 - Feb 2022'

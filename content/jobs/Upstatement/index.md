@@ -1,6 +1,6 @@
 ---
 date: '2019-05-14'
-title: 'Marketing Director'
+title: 'Creative Director'
 company: 'SO-COL'
 location: 'Remote'
 range: 'Jan 2022 - Nov 2022'

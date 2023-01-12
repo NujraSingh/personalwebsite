@@ -135,23 +135,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hope you’re enjoying your scroll! Here’s a bit more about me: I work with visual media
-              and language to solve problems. This includes making subtle decisions like choosing
-              specific colors for a design, or phrasing for an advertisement, and in doing so,
-              refining the stories you want to share. By tinkering with the aspects of communication
-              we intuitively understand, I attempt to guide viewers towards my intended
-              interpretation, and that of my clients.
+              I hope you’re enjoying your scroll! A simple explanation of what I do is that I work
+              with visual media and language to solve problems. Typically, I'll be strategizing with
+              a client to refine the story they are trying to tell-- the story of their product,
+              their service, or their brand altogether.
+            </p>
+
+            <p>
+              Storytelling is inherently strategic because it's comprised of countless subtle
+              decisions. By tinkering with the aspects of communication we intuitively understand, I
+              guide viewers towards my intended interpretation. One such aspect is the tone of the
+              copy, another would be how it's formatted. Combined with visual elements, I craft a
+              narrative on behalf of my clients to better align their vision with the expectations
+              of their customers.
             </p>
 
             <p>
               Recently, I’ve been exploring opportunities in Web3, working at{' '}
               <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up as well as{' '}
-              <a href="https://starry.com/">IreneDAO</a>, a Decentralized Autonomous Organization
-              (DAO).{' '}
+              <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
+              Organization (DAO).{' '}
             </p>
             <p>
-              I plan to continue seeking out clients that are committed to ushering in a new era of
-              web communication.
+              I plan to continue seeking out creatively fulfilling work with the hope of
+              contributing to a new era of web communication.
             </p>
 
             <p>Here are a few skills I’ve been working on recently:</p>
