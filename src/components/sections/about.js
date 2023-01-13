@@ -154,7 +154,7 @@ const About = () => {
               Recently, I’ve been exploring opportunities in Web3, working at{' '}
               <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up as well as{' '}
               <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
-              Organization (DAO).{' '}
+              Organization (DAO). In my spare time, I write science fiction, and rock climb!
             </p>
             <p>
               I plan to continue seeking out creatively fulfilling work with the hope of
