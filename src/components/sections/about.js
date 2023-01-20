@@ -135,26 +135,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I hope you’re enjoying your scroll! A simple explanation of what I do is that I work
-              with visual media and language to solve problems. Typically, I'll be strategizing with
-              a client to refine the story they are trying to tell-- the story of their product,
-              their service, or their brand altogether.
+              I hope you’re enjoying your scroll! A simple explanation of what I do is that I use
+              the cyclical relationships between visual media, language and user data to solve
+              problems. Typically, I'll be strategizing with a client to refine the story they are
+              trying to tell-- the story of their product, their service, or their brand altogether.
             </p>
 
             <p>
               Storytelling is inherently strategic because it's comprised of countless subtle
-              decisions. By tinkering with the aspects of communication we intuitively understand, I
-              guide viewers towards my intended interpretation. One such aspect is the tone of the
-              copy, another would be how it's formatted. Combined with visual elements, I craft a
-              narrative on behalf of my clients to better align their vision with the expectations
-              of their customers.
+              decisions. By using a variety of data analytics tools, I tinker with the aspects of
+              communication we intuitively understand, guiding viewers towards my intended
+              interpretation. One such aspect is the tone of the copy, another would be how it's
+              formatted. Combined with visual elements, I craft a narrative on behalf of my clients
+              to better align their vision with the expectations of their customers.
             </p>
 
             <p>
               Recently, I’ve been exploring opportunities in Web3, working at{' '}
               <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up as well as{' '}
               <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
-              Organization (DAO). In my spare time, I write science fiction, and rock climb!
+              Organization (DAO).
             </p>
             <p>
               I plan to continue seeking out creatively fulfilling work with the hope of
