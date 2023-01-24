@@ -135,19 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I hope you’re enjoying your scroll! A simple explanation of what I do is that I use
-              the cyclical relationships between visual media, language and user data to solve
-              problems. Typically, I'll be strategizing with a client to refine the story they are
-              trying to tell-- the story of their product, their service, or their brand altogether.
+              I hope you’re enjoying your scroll! I use the cyclical relationships between visual
+              media, language and user data to solve problems. Typically, I'll be strategizing with
+              a client to refine the story they are trying to tell-- the story of their product,
+              their service, or their brand altogether.
             </p>
 
             <p>
               Storytelling is inherently strategic because it's comprised of countless subtle
               decisions. By using a variety of data analytics tools, I tinker with the aspects of
               communication we intuitively understand, guiding viewers towards my intended
-              interpretation. One such aspect is the tone of the copy, another would be how it's
-              formatted. Combined with visual elements, I craft a narrative on behalf of my clients
-              to better align their vision with the expectations of their customers.
+              interpretation. This helps me craft a narrative on behalf of my clients that better
+              aligns their vision with the expectations of their customers.
             </p>
 
             <p>
