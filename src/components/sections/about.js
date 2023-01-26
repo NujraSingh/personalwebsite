@@ -138,16 +138,10 @@ const About = () => {
               I think of marketing & design as modes of strategic storytelling-- strategic in the
               sense that paying attention to the relationships between visual media, language and
               user data helps me turn what would otherwise be too abstract to comprehend, into a
-              series of choices. This type of problem solving often involves developing, or refining
-              the story a client is trying to tell-- the story of their product, their service, or
-              their brand altogether.
-            </p>
-
-            <p>
-              By using a variety of data analytics tools, I tinker with the aspects of communication
-              we intuitively understand, guiding viewers towards my intended interpretation. This
-              helps me craft a narrative on behalf of my clients that better aligns their vision
-              with the expectations of their users.
+              series of choices. This type of problem solving often involves refining the story a
+              client is trying to tell-- the story of their product, their service, or their brand
+              altogether. By using a variety of data analytics tools, I craft a narrative that
+              better aligns their vision with the expectations of their users.
             </p>
 
             <p>
