@@ -136,28 +136,27 @@ const About = () => {
           <div>
             <p>
               I hope you’re enjoying your scroll! I use the cyclical relationships between visual
-              media, language and user data to solve problems. Typically, I'll be strategizing with
-              a client to refine the story they are trying to tell-- the story of their product,
-              their service, or their brand altogether.
+              media, language and user data to solve problems. This type of problem solving involves
+              strategizing with a client to refine the story they are trying to tell-- the story of
+              their product, their service, or their brand altogether.
             </p>
 
             <p>
-              Storytelling is inherently strategic because it's comprised of countless subtle
-              decisions. By using a variety of data analytics tools, I tinker with the aspects of
-              communication we intuitively understand, guiding viewers towards my intended
-              interpretation. This helps me craft a narrative on behalf of my clients that better
-              aligns their vision with the expectations of their customers.
+              By using a variety of data analytics tools, I tinker with the aspects of communication
+              we intuitively understand, guiding viewers towards my intended interpretation. This
+              helps me craft a narrative on behalf of my clients that better aligns their vision
+              with the expectations of their users.
             </p>
 
             <p>
-              Recently, I’ve been exploring opportunities in Web3, working at{' '}
+              Recently, I’ve been exploring opportunities in web3, working at{' '}
               <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up as well as{' '}
               <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
               Organization (DAO).
             </p>
             <p>
               I plan to continue seeking out creatively fulfilling work with the hope of
-              contributing to a new era of web communication.
+              contributing to a new era of web communication!
             </p>
 
             <p>Here are a few skills I’ve been working on recently:</p>
