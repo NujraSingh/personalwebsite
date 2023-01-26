@@ -135,10 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I hope you’re enjoying your scroll! I use the cyclical relationships between visual
-              media, language and user data to solve problems. This type of problem solving involves
-              strategizing with a client to refine the story they are trying to tell-- the story of
-              their product, their service, or their brand altogether.
+              I think of marketing & design as modes of strategic storytelling-- strategic in the
+              sense that paying attention to the relationships between visual media, language and
+              user data helps me turn what would otherwise be too abstract to comprehend, into a
+              series of choices. This type of problem solving often involves developing, or refining
+              the story a client is trying to tell-- the story of their product, their service, or
+              their brand altogether.
             </p>
 
             <p>
@@ -149,14 +151,14 @@ const About = () => {
             </p>
 
             <p>
-              Recently, I’ve been exploring opportunities in web3, working at{' '}
+              Recently, I’ve been exploring projects in web3, working at{' '}
               <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up as well as{' '}
               <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
               Organization (DAO).
             </p>
             <p>
               I plan to continue seeking out creatively fulfilling work with the hope of
-              contributing to a new era of web communication!
+              contributing to a new era of web communication.
             </p>
 
             <p>Here are a few skills I’ve been working on recently:</p>
