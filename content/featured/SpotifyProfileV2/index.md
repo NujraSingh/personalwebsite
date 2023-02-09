@@ -13,4 +13,4 @@ tech:
 
 Irene wanted me to demystify web3 jargon and expand her reach to users that were unfamiliar with blockchains, NFTs, DAOs and other potentially intimidating concepts.
 
-I wanted to encapsulate the philosophy behind her work-- how web3 is trying to restore the autonomy that has long been taken from users through intermediaries and centralization. I workshopped a series of threads with this ethos, which resulted in a 17% increase in followers and a significant spike in engagement in the following weeks.
+I wanted to encapsulate the philosophy behind her work-- how web3 is trying to restore the autonomy that has long been taken from users through intermediaries and centralization. I workshopped a series of threads with this in mind, which resulted in a 11% increase in followers and a significant spike in engagement in the following weeks.

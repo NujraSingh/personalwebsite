@@ -135,13 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I think of marketing & design as modes of strategic storytelling-- strategic in the
-              sense that paying attention to the relationships between visual media, language and
-              user data helps me turn what would otherwise be too abstract to comprehend, into a
-              series of choices. This type of problem solving often involves refining the story a
-              client is trying to tell-- the story of their product, their service, or their brand
-              altogether. By using a variety of data analytics tools, I craft a narrative that
-              better aligns their vision with the expectations of their users.
+              Hi! I enjoy a variety of disciplines, but am fundamentally interested in using words
+              and images to help people. I think of marketing & design as modes of strategic
+              storytelling-- strategic in the sense that paying attention to the relationships
+              between visual media, language and user data helps me turn what would otherwise be too
+              abstract to comprehend, into a series of choices. This type of problem solving often
+              involves refining the story a client is trying to tell-- the story of their product,
+              their service, or their brand altogether. By using a variety of data analytics tools,
+              I craft a narrative that better aligns their vision with the expectations of their
+              users.
             </p>
 
             <p>
@@ -151,8 +153,8 @@ const About = () => {
               Organization (DAO).
             </p>
             <p>
-              I plan to continue seeking out creatively fulfilling work with the hope of
-              contributing to a new era of web communication.
+              I plan to continue seeking out exciting opportunities with the hope of building
+              capital and being effectively altruistic.
             </p>
 
             <p>Here are a few skills I’ve been working on recently:</p>
