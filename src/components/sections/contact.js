@@ -61,7 +61,8 @@ const Contact = () => {
 
       <p>
         I’m always open to considering new opportunities! Whether you have a question, a
-        proposition, or just want to chat about sci-fi, shoot me an email, or DM me on Twitter!
+        proposition, or just want to chat about the future of humanity, shoot me an email, or DM me
+        on Twitter!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
