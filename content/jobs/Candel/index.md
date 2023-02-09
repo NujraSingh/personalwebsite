@@ -1,5 +1,5 @@
 ---
-date: '2017-05-14'
+date: '2013-05-14'
 title: 'Editor'
 company: 'UC Davis CANDEL Ed.D Program'
 location: 'Remote'

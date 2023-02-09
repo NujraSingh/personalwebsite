@@ -142,10 +142,10 @@ const About = () => {
 
             <p>
               Recently, I’ve been exploring projects in web3, working at{' '}
-              <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up, as well as{' '}
+              <a href="https://socol.io/">SO-COL,</a> a Singapore-based start-up, as well as{' '}
               <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
-              Organization (DAO). My desire to market these platforms stems from the hope that my
-              contributions will empower others to learn and communicate more easily.
+              Organization (DAO). I've worked on these platforms with the hope that my contributions
+              will empower others to learn and communicate more easily.
             </p>
 
             <p>Here are a few skills I’ve been working on recently:</p>
