@@ -135,8 +135,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I enjoy a variety of disciplines, but am fundamentally interested in effective
-              altruism, ethics, voting systems, and global priorities research.
+              I enjoy a variety of disciplines, but am fundamentally interested in learning about
+              and discussing effective altruism, ethics, voting systems, and global priorities
+              research.
             </p>
 
             <p>
@@ -144,7 +145,7 @@ const About = () => {
               <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up, as well as{' '}
               <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
               Organization (DAO). My desire to market these platforms stems from the hope that my
-              contributions will empower others to learn, collaborate and communicate more easily.
+              contributions will empower others to learn and communicate more easily.
             </p>
 
             <p>Here are a few skills I’ve been working on recently:</p>
