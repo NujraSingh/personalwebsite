@@ -135,26 +135,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! I enjoy a variety of disciplines, but am fundamentally interested in using words
-              and images to help people. I think of marketing & design as modes of strategic
-              storytelling-- strategic in the sense that paying attention to the relationships
-              between visual media, language and user data helps me turn what would otherwise be too
-              abstract to comprehend, into a series of choices. This type of problem solving often
-              involves refining the story a client is trying to tell-- the story of their product,
-              their service, or their brand altogether. By using a variety of data analytics tools,
-              I craft a narrative that better aligns their vision with the expectations of their
-              users.
+              I enjoy a variety of disciplines, but am fundamentally interested in effective
+              altruism, ethics, voting systems, and global priorities research.
             </p>
 
             <p>
               Recently, I’ve been exploring projects in web3, working at{' '}
               <a href="https://socol.io/">SO-COL</a>, a Singapore-based start-up, as well as{' '}
               <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
-              Organization (DAO).
-            </p>
-            <p>
-              I plan to continue seeking out exciting opportunities with the hope of building
-              capital and being effectively altruistic.
+              Organization (DAO). My desire to market these platforms stems from the hope that my
+              contributions will empower others to learn, collaborate and communicate more easily.
             </p>
 
             <p>Here are a few skills I’ve been working on recently:</p>
