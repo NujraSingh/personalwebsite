@@ -148,7 +148,7 @@ const About = () => {
               will empower others to learn and communicate more easily.
             </p>
 
-            <p>Here are a few skills I’ve been working on recently:</p>
+            <p>Here are a few skills I’ve been working on:</p>
           </div>
 
           <ul className="skills-list">
