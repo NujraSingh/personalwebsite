@@ -8,5 +8,5 @@ url: 'https://www.mishkascafe.com/'
 ---
 
 - Wrote copy for our website, demonstrating Mishkas' commitment to environmentalism which increased online coffee sales by 13%.
-- Created digital illustrations of the highest grossing drinks and led a marketing campaign that increased sales by 16%.
+- Created digital illustrations of the highest grossing drinks and wrote copy for a social media marketing campaign that increased sales by 16%.
 - Managed a team of 3 designers to revamp all primary branding including the logo, website, and physical signage.

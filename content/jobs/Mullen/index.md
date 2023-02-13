@@ -7,6 +7,6 @@ range: 'June 2019 - December 2021'
 url: 'https://www.instagram.com/javadetourredbluff/?hl=en'
 ---
 
-- Wrote copy for themed email marketing campaigns for summer and winter and ran multivariate tests using Mailchimp, increasing open rates by 14%.
+- Wrote copy for email marketing campaigns for summer and winter and ran A/B tests using Mailchimp, increasing open rates by 14%.
 - Analyzed customer purchasing behavior to eliminate underperforming drinks, resulting in a 7% increase in sales.
 - Oversaw all social media channels, wrote copy for our posts, and managed a 2k monthly budget for paid campaigns on Instagram and Facebook.
