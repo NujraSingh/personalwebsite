@@ -135,9 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I enjoy a variety of disciplines but am fundamentally interested in social reform. I
-              want to continue learning about and better understanding effective altruism, ethics,
-              voting systems, and global priorities research through my work.
+              I enjoy a variety of disciplines but am fundamentally interested in social reform that
+              is predicated on longtermism. I plan to continue learning about effective altruism,
+              ethics, voting systems, and global priorities research through my work while
+              contributing to these fields as best I can.
             </p>
 
             <p>
