@@ -1,9 +1,9 @@
 ---
-date: '2015-12-21'
+date: '2013-12-21'
 title: 'Content Director'
 company: 'Java Detour'
 location: 'Remote'
-range: 'June 2019 - December 2021'
+range: 'June 2017 - Nov 2018'
 url: 'https://www.instagram.com/javadetourredbluff/?hl=en'
 ---
 
