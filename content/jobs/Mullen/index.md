@@ -1,6 +1,6 @@
 ---
 date: '2013-12-21'
-title: 'Content Director'
+title: 'Marketing Manager'
 company: 'Java Detour'
 location: 'Remote'
 range: 'June 2017 - Nov 2018'

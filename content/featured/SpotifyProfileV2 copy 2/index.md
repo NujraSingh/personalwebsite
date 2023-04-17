@@ -9,6 +9,6 @@ tech:
   - Illustrator
 ---
 
-Mishkas' owner, Sinisa, wanted me to create a series of illustrations that would be used to advertise his best selling drinks as well as a soon to be released latte. I proposed a style that's reminiscient of herbarium samples-- dried plants that are catalogued and stored for future research.
+Mishkas wanted me to create a series of illustrations that would be used to advertise their best selling drinks as well as a soon to be released latte. I proposed a style that's reminiscient of herbarium samples-- dried plants that are catalogued and stored for future research.
 
 I created 6 posters, wrote the copy for several paid Instagram and Google ads, and measured our online campaign performance over the course of several weeks.
