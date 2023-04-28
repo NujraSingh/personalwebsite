@@ -3,7 +3,7 @@ date: '2019-05-14'
 title: 'Creative Director'
 company: 'SO-COL'
 location: 'Remote'
-range: 'Jan 2022 - Nov 2022'
+range: 'Feb 2022 - Jan 2023'
 url: 'https://www.socol.io'
 ---
 
