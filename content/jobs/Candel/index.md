@@ -1,7 +1,7 @@
 ---
 date: '2015-05-14'
 title: 'Editor'
-company: 'UC Davis CANDEL Ed.D Program'
+company: 'UCD CANDEL Program'
 location: 'Remote'
 range: 'Aug 2020 - Oct 2021'
 url: 'https://education.ucdavis.edu/eddeducational-leadership'
