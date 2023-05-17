@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Photoshop', 'Illustrator', 'Figma', 'JavaScript', 'HTML', 'CSS'];
+  const skills = ['Salesforce', 'Photoshop', 'Illustrator', 'Figma', 'JavaScript', 'HTML', 'CSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,10 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm interested in social reform that balances a global reduction in suffering with the
-              improvement of humanity's long-term future. I plan to continue learning about
-              effective altruism, ethics, voting systems, and global priorities research through my
-              work while contributing to these areas as best I can.
+              I'm interested in supporting social reform that balances a global reduction in
+              suffering with the improvement of humanity's long-term future. I plan to continue
+              learning about effective altruism, ethics, voting systems, and global priorities
+              research through my work while contributing to these areas as best I can!
             </p>
 
             <p>
