@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '1.1'
 title: 'SO-COL Landing Page'
 cover: './socol.png'
 external: 'https://socol.io'
