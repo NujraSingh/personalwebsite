@@ -137,8 +137,8 @@ const About = () => {
             <p>
               I'm interested in causes that are reducing global suffering and improving humanity's
               long-term future. I plan to continue learning about effective altruism, AI safety
-              research, voting systems, and global priorities research through my work while
-              contributing to these areas as best I can!
+              research, voting systems, and global priorities research while contributing to these
+              areas as best I can!
             </p>
 
             <p>
@@ -146,13 +146,14 @@ const About = () => {
               <a href="https://www.safe.ai">Center for AI Safety,</a> to provide feedback on their
               accelerated AI Safety course. I've been revising their 64 chapter textbook with the
               hope of adapting their work to be used for an undergratuate course.
-              <p>
-                Previously, I was exploring projects in web3, working at{' '}
-                <a href="https://socol.io/">SO-COL,</a> a cryptocommerce start-up, as well as{' '}
-                <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
-                Organization (DAO). I've worked on these platforms with the hope that my
-                contributions will empower others to learn, collaborate and communicate more easily.
-              </p>
+            </p>
+
+            <p>
+              Previously, I was exploring projects in web3, working at{' '}
+              <a href="https://socol.io/">SO-COL,</a> a cryptocommerce start-up, as well as{' '}
+              <a href="https://twitter.com/0xIreneDAO">IreneDAO</a>, a Decentralized Autonomous
+              Organization (DAO). I've worked on these platforms with the hope that my contributions
+              will empower others to learn, collaborate, and communicate more easily.
             </p>
 
             <p>Here are a few skills I’ve been working on:</p>
