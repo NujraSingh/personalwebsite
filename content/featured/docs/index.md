@@ -1,7 +1,7 @@
 ---
 date: '1'
-title: 'Center for AI Safety Revisions'
-cover: './doc.jpg'
+title: 'Center for AI Safety Textbook Revisions'
+cover: './doc.png'
 external: 'https://www.safe.ai'
 tech:
   - Google Suite
