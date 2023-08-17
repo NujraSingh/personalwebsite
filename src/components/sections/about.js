@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Salesforce', 'Photoshop', 'Illustrator', 'Figma', 'JavaScript', 'HTML', 'CSS'];
+  const skills = ['Illustrator', 'Figma', 'JavaScript', 'HTML', 'CSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,8 +144,9 @@ const About = () => {
             <p>
               Recently, I’ve been collaborating with the{' '}
               <a href="https://www.safe.ai">Center for AI Safety,</a> to provide feedback on their
-              accelerated AI Safety course. I've been revising their 64 chapter textbook with the
-              hope of adapting their work to be used for an undergratuate course.
+              accelerated AI Safety course. In particular, I've been revising their textbook
+              alongside AI safety researchers with the hope of adapting their work to be used for an
+              undergratuate course.
             </p>
 
             <p>
