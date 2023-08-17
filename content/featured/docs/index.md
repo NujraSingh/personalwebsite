@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Center for AI Safety Textbook Revisions'
+title: 'Center for AI Safety Textbook'
 cover: './doc.png'
 external: 'https://www.safe.ai'
 tech:
