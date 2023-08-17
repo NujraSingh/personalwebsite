@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Center for AI Safety Textbook'
-cover: './doc.png'
+cover: './doc1.png'
 external: 'https://www.safe.ai'
 tech:
   - Google Suite
