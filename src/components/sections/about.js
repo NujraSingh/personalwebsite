@@ -143,8 +143,8 @@ const About = () => {
 
             <p>
               Recently, I’ve been collaborating with the{' '}
-              <a href="https://www.safe.ai">Center for AI Safety</a> to provide feedback on their
-              accelerated AI Safety course. I've been revising their AI Safety textbook alongside AI
+              <a href="https://www.safe.ai">Center for AI Safety</a> (CAIS) to provide feedback on
+              their accelerated AI Safety course. I revised their AI Safety textbook alongside AI
               safety researchers with the hope of adapting their work to be used for an
               undergratuate course.
             </p>
