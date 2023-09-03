@@ -58,14 +58,14 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, I'm</h1>;
+  const one = <h1>Hi! I'm</h1>;
   const two = <h2 className="big-heading">Arjun Singh.</h2>;
   const three = (
     <h3 className="big-heading">I make social reform look and sound more compelling.</h3>
   );
   const four = (
     <>
-      <p>California-based marketer, editor, and content strategist</p>
+      <p>I'm a California-based research communicator, editor, and content strategist</p>
     </>
   );
   const five = (
