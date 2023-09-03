@@ -1,6 +1,6 @@
 ---
-date: '3'
-title: 'DAO Growth Marketing'
+date: '1.3'
+title: 'DAO Donation Proposals'
 cover: './ecpat.jpg'
 external: 'https://twitter.com/0xIreneDAO'
 cta: 'https://twitter.com/0xIreneDAO'
