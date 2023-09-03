@@ -1,5 +1,5 @@
 ---
-date: '1.3'
+date: '1.2'
 title: 'DAO Donation Proposals'
 cover: './ecpat.jpg'
 external: 'https://twitter.com/0xIreneDAO'
