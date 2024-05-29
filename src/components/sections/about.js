@@ -135,13 +135,6 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm interested in causes that are reducing global suffering and improving humanity's
-              long-term future. I plan to continue learning about effective altruism, AI safety
-              research, voting systems, and global priorities research while contributing to these
-              areas as best I can!
-            </p>
-
-            <p>
               Recently, I collaborated with the{' '}
               <a href="https://www.safe.ai">Center for AI Safety</a> (CAIS) to provide feedback on
               their accelerated AI Safety course. I revised their AI Safety textbook alongside AI
