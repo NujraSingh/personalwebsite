@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I make ambitious projects more compelling.</h3>;
   const four = (
     <>
-      <p>I'm a California-based designer and marketer</p>
+      <p>I'm a California-based designer and marketer.</p>
     </>
   );
   const five = (
